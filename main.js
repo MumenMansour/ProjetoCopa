@@ -32,16 +32,16 @@ document.querySelector('body').innerHTML =
             criaJogos("brazil", "20:00", "serbia")
         )}
         ${criarCard(
-            "24/11",
+            "26/11",
             "quinta",
-            criaJogos("brazil", "16:00", "serbia")
+            criaJogos("brazil", "13:00", "serbia")
         )}
         ${criarCard(
-            "24/11",
+            "28/11",
             "quinta",
-            criaJogos("brazil", "16:00", "serbia")
+            criaJogos("brazil", "10:00", "serbia")
         )}
 
     </main>
-    
+
 `
